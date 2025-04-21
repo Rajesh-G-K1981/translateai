@@ -1,0 +1,13 @@
+deep-translator>=1.11.4
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+striprtf>=0.0.22
+odfpy>=1.4.1
+ttkthemes>=3.2.2
+docx2pdf>=0.1.8
+typing-extensions>=4.7.1
+python-dotenv>=1.0.0
+requests>=2.31.0
+spellchecker>=0.7.1
+pdfminer.six>=20221105
+reportlab>=4.0.8

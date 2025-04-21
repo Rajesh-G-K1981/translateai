@@ -1,0 +1,24 @@
+{
+    "theme": "dark",
+    "recent_files": [
+        "C:/Users/Rajesh G K/Downloads/Programming Language Concepts - [UCTS]_Batch Compress.pdf",
+        "D:/My Personal/Books/Undergraduate Topics in Computer Science/Programming languages and operational semantics_ a concise overview [UCTS].pdf",
+        "D:/My Personal/Books/Undergraduate Topics in Computer Science/Programming Languages_ Principles and Paradigms -[UCTS] 2nd ed_ 2023.pdf",
+        "C:/Users/Rajesh G K/Downloads/Paka Darpana of Nala Madhuri Hindi Commentary_OCR..pdf",
+        "D:/My Personal/Books/Undergraduate Topics in Computer Science/Programming Language Concepts - [UCTS].pdf"
+    ],
+    "custom_dictionary": {},
+    "translation_engines": {
+        "google": {
+            "api_key": null,
+            "default": true
+        },
+        "deepl": {
+            "api_key": null,
+            "default": false
+        }
+    },
+    "max_recent_files": 5,
+    "default_target_language": "hi",
+    "default_output_format": "Same as Input"
+}
